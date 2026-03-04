@@ -49,4 +49,4 @@ _Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001,
 
 * [6] Hervé PARMENTIER,
 "[invité] Calcul d’indices avec QGIS sur image Sentinelle 2A. De l’indice de végétation (NDVI) à celui de la construction de différence normalisée (NDBI)",<br />
-17 janvier 2022 |_ Cartographie et SIG, QGIS_, _NaturaGIS_ (https://naturagis.fr/cartographie-sig/imageries-sentinelles-collectes-et-calculs-dindices-de-vegetation/)
+17 janvier 2022 | _Cartographie et SIG, QGIS_, _NaturaGIS_ (https://naturagis.fr/cartographie-sig/imageries-sentinelles-collectes-et-calculs-dindices-de-vegetation/)
