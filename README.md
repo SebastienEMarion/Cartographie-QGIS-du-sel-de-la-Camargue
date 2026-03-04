@@ -16,6 +16,8 @@ Ici, deux bandes sont utilisées :
 Et la formule suivante : <br />
 $\mathrm{NDSI} = \frac{B_8 - B_4}{B_8 + B_4}$
 
+lorem ipsum
+
 # Bibliographie : 
 * [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
 « Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery »,
