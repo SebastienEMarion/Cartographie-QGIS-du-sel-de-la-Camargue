@@ -14,7 +14,7 @@ Ici, deux bandes sont utilisées :
 | B08 | NIR, 832.8 nm (S2A), 833.0 nm (S2B) | 10 m |
 
 Et la formule suivante :
-$\mathrm{NDVI} = \frac{B_8 - B_4}{B_8 + B_4}$
+$\mathrm{NDSI} = \frac{B_8 - B_4}{B_8 + B_4}$
 
 # Bibliographie : 
 * [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
