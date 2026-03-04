@@ -13,17 +13,23 @@ Ici, deux bandes sont utilisées :
 | B04 | Red, 664.6 nm (S2A), 665.0 nm (S2B) | 10 m |
 | B08 | NIR, 832.8 nm (S2A), 833.0 nm (S2B) | 10 m |
 
+Et la formule suivante :
+\[
+\mathrm{NDVI} = \frac{B_{\text{NIR}} - B_{\text{Red}}}{B_{\text{NIR}} + B_{\text{Red}}}
+= \frac{B_8 - B_4}{B_8 + B_4}
+\]
+
 # Bibliographie : 
-* Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
+* [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
 « Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery »,
 _Geoderma_, Volume 440, 2023, 116738, ISSN 0016-7061, https://doi.org/10.1016/j.geoderma.2023.116738. (https://www.sciencedirect.com/science/article/pii/S0016706123004159)
 
-* "Sentinel-2 L2A",
+* [2] "Sentinel-2 L2A",
 _Sentinel Hub_, (https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/)
 
-* "Normalized Difference Salinity Index | Calculate NDSI (Salinity) in QGIS & ArcMap",
+* [3] "Normalized Difference Salinity Index | Calculate NDSI (Salinity) in QGIS & ArcMap",
 _Dawn Of Geospatial World_, 25 septembre 2023 (https://www.youtube.com/watch?v=KmFXmDo1ekc)
 
-* Khan, N.M., Rastoskuev, V.V., Shalina, E.V. and Sato,Y. (2001),
+* [4] Khan, N.M., Rastoskuev, V.V., Shalina, E.V. and Sato,Y. (2001),
 "Mapping Salt-Affected Soils Using Remote Sensing Indicators—A Simple Approach with the Use of GIS IDRISI".
 _Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001, Singapore. Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore; Singapore Institute of Surveyors and Valuers; Asian Association on Remote Sensing, 5 p.
