@@ -8,10 +8,10 @@ L'indice de salinité par différence normalisée est une technique de télédé
 
 Ici, deux bandes sont utilisées [2] :
 
-| Nom | Description | Résolution |
+<p align="center">| Nom | Description | Résolution |
 |-----|-------------|------------|
 | B04 | Red, 664.6 nm (S2A), 665.0 nm (S2B) | 10 m |
-| B08 | NIR, 832.8 nm (S2A), 833.0 nm (S2B) | 10 m |
+| B08 | NIR, 832.8 nm (S2A), 833.0 nm (S2B) | 10 m |</p>
 
 Et la formule suivante : <br />
 $\mathrm{NDSI} = \frac{B_8 - B_4}{B_8 + B_4}$ [3, 4]
