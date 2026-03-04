@@ -12,7 +12,6 @@ Ici, deux bandes sont utilisées :
 |-----|-------------|------------|
 | B04 | Red, 664.6 nm (S2A), 665.0 nm (S2B) | 10 m |
 | B08 | NIR, 832.8 nm (S2A), 833.0 nm (S2B) | 10 m |
-|     |             |            |
 
 # Bibliographie : 
 * Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
