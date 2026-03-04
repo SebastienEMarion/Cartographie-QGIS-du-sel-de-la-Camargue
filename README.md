@@ -3,4 +3,4 @@ Cartographie QGIS de la salinité de la Camargue, utilisant des données du sate
 
 <img src="https://github.com/user-attachments/assets/139eb172-2729-4577-a5a1-ecae6c722851"
      width="600"
-     style="border-radius: 20px;" />
+     style="border-radius: 40px;" />
