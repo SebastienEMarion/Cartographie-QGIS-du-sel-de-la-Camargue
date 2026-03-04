@@ -20,7 +20,6 @@ Cette équation n'est qu'une des variétés possibles. Par ailleurs l'usage de c
 
 Le NDVI (indice de végétation par différence normalisée) semble correspondre à cette équation [6] aussi. "Le NDVI (Normalized Difference Vegetation Index) ou indice de végétation, est construit à partir des canaux rouges et proche infrarouge. Il met en valeur la différence entre la bande visible du rouge et celle du proche infrarouge pour mettre en valeur l’intensité des espaces chlorophylliens." On peut donc en conclure que les deux indices peuvent être utilisés conjointement selon que la surface étudiée est un corps d'eau ou une étendue où de la végétation peut pousser. En effet, les deux pourraient être corrélés en les sansouïres mentionnées dans la partie suivante. 
 
-<img width="351" height="471" alt="image" src="https://github.com/user-attachments/assets/29ccdb29-8a25-4c51-bff0-6357e138fabb" />
 <p align="center">
   <img width="351" height="471" alt="image" src="https://github.com/user-attachments/assets/29ccdb29-8a25-4c51-bff0-6357e138fabb" />
 </p>
