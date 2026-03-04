@@ -37,6 +37,6 @@ _Dawn Of Geospatial World_, 25 septembre 2023 (https://www.youtube.com/watch?v=K
 "Mapping Salt-Affected Soils Using Remote Sensing Indicators—A Simple Approach with the Use of GIS IDRISI". <br />
 _Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001, Singapore. Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore; Singapore Institute of Surveyors and Valuers; Asian Association on Remote Sensing, 5 p.
 
-* [5] Bruno CINOTTI (IGEDD), Bruno DEPRESLE (IGEDD), Christophe PATIER (CGAAER),
-"L’adaptation de la Camargue au changement climatique - Améliorer la gouvernance pour prendre en charge les dérèglements",
+* [5] Bruno CINOTTI (IGEDD), Bruno DEPRESLE (IGEDD), Christophe PATIER (CGAAER),<br />
+"L’adaptation de la Camargue au changement climatique - Améliorer la gouvernance pour prendre en charge les dérèglements",<br />
 17 novembre 2023, _Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire_ (https://agriculture.gouv.fr/ladaptation-de-la-camargue-au-changement-climatique-ameliorer-la-gouvernance-pour-prendre-en-charge)
