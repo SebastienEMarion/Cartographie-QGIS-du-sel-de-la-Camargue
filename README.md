@@ -3,7 +3,7 @@ Cartographie QGIS de la salinité de la Camargue, utilisant des données du sate
 
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/06112582-a685-42c6-911a-98a17e75cd1b" />
 
-# L'indice de salinité par différence normalisée (NDSI) en _remote sensing_
+# L'indice de salinité par différence normalisée (NDSI) en _remote sensing_ (télédétection)
 L'indice de salinité par différence normalisée est une technique de télédétection, qui sert à superposer sur un système de géolocalisation mondiale, différentes couches issues de missions effectuées par des satellites. Sur celui utilisé pour cette cartographie de la salinité de la Camargue, en février 2026, c'est le satellite Sentinel-2 de l'Agence Spatiale Européenne (ESA) qui est utilisé. La mission spécifique est Sentinel-2 L2A.
 
 # Bibliographie : 
