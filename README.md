@@ -18,7 +18,7 @@ $\mathrm{NDSI} = \frac{B_8 - B_4}{B_8 + B_4}$ [3, 4]
 
 Cette équation n'est qu'une des variétés possibles. Par ailleurs l'usage de ce type d'indice possède des avantages inhérents. "_Les stations de surveillance au sol peuvent éviter des coûts en main d'œuvre, mais impliquent des limites, comme des étendues de surveillance réduites et des coûts élevés. Récemment, la télédétection satellite a émergé comme méthode pour une surveillance quantitative comme qualitative de surveillance de la salinisation des sols grâce à ses avantages uniques, comme la capacité de couvrir de larges zones, d'offrir diférents types de produits de données, l'accessibilité, un faible coût économique, et la possibilité d'une cartographie convéniente. (Cao et al., 2022). La salinité du sol varie avec l'irrigation, la précipitation, l'évaporation, la fertilisation [...], résultant un en mouvement horizontal et vertical du sol (Tibhirine et al., 2023)._" [1]
 
-Le NDVI (indice de végétation par différence normalisée) semble correspondre à cette équation [6] aussi. On peut donc en conclure que les deux indices peuvent être utilisés conjointement selon que la surface étudiée est un corps d'eau ou une étendue où de la végétation peut pousser. En effet, les deux pourraient être corrélés en les sansouïres mentionnées dans la partie suivante. 
+Le NDVI (indice de végétation par différence normalisée) semble correspondre à cette équation [6] aussi. "Le NDVI (Normalized Difference Vegetation Index) ou indice de végétation, est construit à partir des canaux rouges et proche infrarouge. Il met en valeur la différence entre la bande visible du rouge et celle du proche infrarouge pour mettre en valeur l’intensité des espaces chlorophylliens." On peut donc en conclure que les deux indices peuvent être utilisés conjointement selon que la surface étudiée est un corps d'eau ou une étendue où de la végétation peut pousser. En effet, les deux pourraient être corrélés en les sansouïres mentionnées dans la partie suivante. 
 
 # Intérêt de la cartographie de la salinité en Camargue
 
@@ -44,5 +44,5 @@ _Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001,
 17 novembre 2023, _Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire_ (https://agriculture.gouv.fr/ladaptation-de-la-camargue-au-changement-climatique-ameliorer-la-gouvernance-pour-prendre-en-charge)
 
 * [6] Hervé PARMENTIER,
-* "[invité] Calcul d’indices avec QGIS sur image Sentinelle 2A. De l’indice de végétation (NDVI) à celui de la construction de différence normalisée (NDBI)",<br />
-* 17 janvier 2022 |_ Cartographie et SIG, QGIS_, _NaturaGIS_ (https://naturagis.fr/cartographie-sig/imageries-sentinelles-collectes-et-calculs-dindices-de-vegetation/)
+"[invité] Calcul d’indices avec QGIS sur image Sentinelle 2A. De l’indice de végétation (NDVI) à celui de la construction de différence normalisée (NDBI)",<br />
+17 janvier 2022 |_ Cartographie et SIG, QGIS_, _NaturaGIS_ (https://naturagis.fr/cartographie-sig/imageries-sentinelles-collectes-et-calculs-dindices-de-vegetation/)
