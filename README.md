@@ -18,6 +18,10 @@ $\mathrm{NDSI} = \frac{B_8 - B_4}{B_8 + B_4}$ [3, 4]
 
 Cette équation n'est qu'une des variétés possibles. Par ailleurs l'usage de ce type d'indice possède des avantages inhérents. "_Les stations de surveillance au sol peuvent éviter des coûts en main d'œuvre, mais impliquent des limites, comme des étendues de surveillance réduites et des coûts élevés. Récemment, la télédétection satellite a émergé comme méthode pour une surveillance quantitative comme qualitative de surveillance de la salinisation des sols grâce à ses avantages uniques, comme la capacité de couvrir de larges zones, d'offrir diférents types de produits de données, l'accessibilité, un faible coût économique, et la possibilité d'une cartographie convéniente. (Cao et al., 2022). La salinité du sol varie avec l'irrigation, la précipitation, l'évaporation, la fertilisation [...], résultant un en mouvement horizontal et vertical du sol (Tibhirine et al., 2023)._" [1]
 
+# Intérêt de la cartographie de la salinité en Camargue
+
+Dans un contexte de changement climatique, l'élévation des eaux est un aléa complexe. Comme l'eau salée monte, elle pénètre les aquifères, réduisant les réserves d'eau douce pour les populations. Par ailleurs, la Camargue est un territoire particulier car une activité de riziculture s'y est développée, riziculture menacée par la pénétration du biseau salé. Sans compter les adaptations biologiques particulières au milieu du marais salin, qui font partie du patrimoine régional : le tauros et les chevaux. Il en va aussi de la flore, car dans le schorre camarguais la salicorne, la soude et la saladelle sont des espèces qui apprécient la présence salée. On les dit halophytes. "L’aggravation de cette situation est inscrite dans les prévisions climatiques jusqu’en 2100." [5]
+
 # Bibliographie : 
 * [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
 « Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery »,
@@ -32,3 +36,7 @@ _Dawn Of Geospatial World_, 25 septembre 2023 (https://www.youtube.com/watch?v=K
 * [4] Khan, N.M., Rastoskuev, V.V., Shalina, E.V. and Sato,Y. (2001), <br />
 "Mapping Salt-Affected Soils Using Remote Sensing Indicators—A Simple Approach with the Use of GIS IDRISI". <br />
 _Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001, Singapore. Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore; Singapore Institute of Surveyors and Valuers; Asian Association on Remote Sensing, 5 p.
+
+* [5] Bruno CINOTTI (IGEDD), Bruno DEPRESLE (IGEDD), Christophe PATIER (CGAAER),
+"L’adaptation de la Camargue au changement climatique - Améliorer la gouvernance pour prendre en charge les dérèglements",
+17 novembre 2023, _Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire_ (https://agriculture.gouv.fr/ladaptation-de-la-camargue-au-changement-climatique-ameliorer-la-gouvernance-pour-prendre-en-charge)
