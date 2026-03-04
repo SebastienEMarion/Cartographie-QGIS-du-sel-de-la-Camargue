@@ -5,5 +5,5 @@ Cartographie QGIS de la salinité de la Camargue, utilisant des données du sate
 
 # Bibliographie : 
 * Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
-Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery,
+_Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery_,
 Geoderma, Volume 440, 2023, 116738, ISSN 0016-7061, https://doi.org/10.1016/j.geoderma.2023.116738. (https://www.sciencedirect.com/science/article/pii/S0016706123004159)
