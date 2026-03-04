@@ -20,6 +20,9 @@ Cette équation n'est qu'une des variétés possibles. Par ailleurs l'usage de c
 
 Le NDVI (indice de végétation par différence normalisée) semble correspondre à cette équation [6] aussi. "Le NDVI (Normalized Difference Vegetation Index) ou indice de végétation, est construit à partir des canaux rouges et proche infrarouge. Il met en valeur la différence entre la bande visible du rouge et celle du proche infrarouge pour mettre en valeur l’intensité des espaces chlorophylliens." On peut donc en conclure que les deux indices peuvent être utilisés conjointement selon que la surface étudiée est un corps d'eau ou une étendue où de la végétation peut pousser. En effet, les deux pourraient être corrélés en les sansouïres mentionnées dans la partie suivante. 
 
+<img width="351" height="471" alt="image" src="https://github.com/user-attachments/assets/29ccdb29-8a25-4c51-bff0-6357e138fabb" />
+
+
 # Intérêt de la cartographie de la salinité en Camargue
 
 Dans un contexte de changement climatique, l'élévation des eaux est un aléa complexe. Comme l'eau salée monte, elle pénètre les aquifères, réduisant les réserves d'eau douce pour les populations. Par ailleurs, la Camargue est un territoire particulier car une activité de riziculture s'y est développée, riziculture menacée par la pénétration du biseau salé. Sans compter les adaptations biologiques particulières au milieu du marais salin, qui font partie du patrimoine régional : le tauros et les chevaux. Il en va aussi de la flore, car dans le schorre camarguais la salicorne, la soude et la saladelle sont des espèces qui apprécient la présence salée. On les dit halophytes. "L’aggravation de cette situation est inscrite dans les prévisions climatiques jusqu’en 2100." [5]
