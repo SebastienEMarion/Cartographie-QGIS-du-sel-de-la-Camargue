@@ -20,3 +20,10 @@ _Geoderma_, Volume 440, 2023, 116738, ISSN 0016-7061, https://doi.org/10.1016/j.
 
 * "Sentinel-2 L2A",
 _Sentinel Hub_, (https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/)
+
+* "Normalized Difference Salinity Index | Calculate NDSI (Salinity) in QGIS & ArcMap",
+_Dawn Of Geospatial World_, 25 septembre 2023 (https://www.youtube.com/watch?v=KmFXmDo1ekc)
+
+* Khan, N.M., Rastoskuev, V.V., Shalina, E.V. and Sato,Y. (2001),
+"Mapping Salt-Affected Soils Using Remote Sensing Indicators—A Simple Approach with the Use of GIS IDRISI".
+_Proceedings of the 22nd Asian Conference on Remote Sensing_, 5-9 November 2001, Singapore. Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore; Singapore Institute of Surveyors and Valuers; Asian Association on Remote Sensing, 5 p.
