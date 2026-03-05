@@ -29,7 +29,11 @@ Le NDVI (indice de végétation par différence normalisée) semble correspondre
 Dans un contexte de changement climatique, l'élévation des eaux est un aléa complexe. Comme l'eau salée monte, elle pénètre les aquifères, réduisant les réserves d'eau douce pour les populations. Par ailleurs, la Camargue est un territoire particulier car une activité de riziculture s'y est développée, riziculture menacée par la pénétration du biseau salé. Sans compter les adaptations biologiques particulières au milieu du marais salin, qui font partie du patrimoine régional : le tauros et les chevaux. Il en va aussi de la flore, car dans le schorre camarguais la salicorne, la soude et la saladelle sont des espèces qui apprécient la présence salée. On les dit halophytes. "L’aggravation de cette situation est inscrite dans les prévisions climatiques jusqu’en 2100." [5]
 
 # Glossaire :
-* **a**
+* **Sansouïre** : On peut aussi dire schorre, c'est là où poussent des plantes qui se nourrissent de sel, dites halophytes, dont la salicorne, la soude et la saladelle dans le cas de la Camargue. 
+* **NDSI** : _Indice de salinité par différence normalisée_, entre -1 et 1, représentation du sel sur la Terre.
+* **NDVI** : _Indice de végétation par différence normalisée_, donc entre -1 et 1 la représentation des plantes réparties sur la Terre. Ces plantes peuvent avoir racine dans l'eau comme pour le palétuvier des mangroves. On recherche du vert pour la chlorophylle, pigment propre à la végétation.
+* **Télédétection** : En anglais, *remote sensing*. C'est l'utilisation de données satellitaires pour obtenir des informations sans avoir de relation directe à l'objet d'étude. Cela peut se faire par des inférences, notamment avec des indices en corrélation éventuelle, par exemple le NDSI, le NDVI et la topologie (abyssale si on utilise une carte bathymétrique (GEBCO), terrestre si on utilise une *hillshade* (ESRI). 
+* **Biseau salé** : Pénétration de l'eau salée, notamment de la mer, dans un aquifère.    
 
 # Bibliographie : 
 * [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
