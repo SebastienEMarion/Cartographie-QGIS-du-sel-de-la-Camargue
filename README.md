@@ -28,6 +28,9 @@ Le NDVI (indice de végétation par différence normalisée) semble correspondre
 
 Dans un contexte de changement climatique, l'élévation des eaux est un aléa complexe. Comme l'eau salée monte, elle pénètre les aquifères, réduisant les réserves d'eau douce pour les populations. Par ailleurs, la Camargue est un territoire particulier car une activité de riziculture s'y est développée, riziculture menacée par la pénétration du biseau salé. Sans compter les adaptations biologiques particulières au milieu du marais salin, qui font partie du patrimoine régional : le tauros et les chevaux. Il en va aussi de la flore, car dans le schorre camarguais la salicorne, la soude et la saladelle sont des espèces qui apprécient la présence salée. On les dit halophytes. "L’aggravation de cette situation est inscrite dans les prévisions climatiques jusqu’en 2100." [5]
 
+# Glossaire :
+* *a*
+
 # Bibliographie : 
 * [1] Xin Cui, Wenting Han, Huihui Zhang, Yuxin Dong, Weitong Ma, Xuedong Zhai, Liyuan Zhang, Guang Li,
 « Estimating and mapping the dynamics of soil salinity under different crop types using Sentinel-2 satellite imagery »,
